@@ -1,7 +1,9 @@
 #LIBRERIAS
+import groq
 import streamlit as st
 
-import groq 
+
+
 
 
 #VARIABLES
@@ -94,5 +96,6 @@ def main():
 if __name__ == "__main__":
 
     main()
+
 
 
